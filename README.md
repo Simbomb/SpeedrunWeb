@@ -1,1 +1,1 @@
-# SpeedWeb-ID1212
+SpeedrunWeb is a java spring-boot website using h2 database to allow users to upload, view and comment on posts about speedruns. Users can also upload anything on a forum and search for other users. There are admin accounts to manage these posts and comments. This project was made during the course ID1212 Network Programming.
